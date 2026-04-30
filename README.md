@@ -130,7 +130,7 @@ curl http://localhost:8080/api/users/me \
 mvn test
 ```
 
-Unit tests use MockK — no database or running server required.
+Unit tests use MockK, no database or running server required.
 
 ## OAuth2 Setup (optional)
 
